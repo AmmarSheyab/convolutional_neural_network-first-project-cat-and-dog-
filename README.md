@@ -1,5 +1,5 @@
-# convolutional_neural_network-first-project-cat-and-dog-
-# introduction
+# Convolutional_neural_network-first-project-cat-and-dog-
+# Introduction
 Convolutional Neural Network
 CNN is a type of neural network model which allows working with the images and videos, CNN takes the image's raw pixel data, trains the model, then extracts the features automatically for better classification.They are used in this project to sort between pictures of dogs and cats
 # Data Set
